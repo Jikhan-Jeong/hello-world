@@ -1,4 +1,10 @@
-# R Practice with Statistical Learning 
-example page
+# This is a practice world
 
-Learn about Git Hub, preparing for 2018 Fall Semester
+To know about Econometrics : Discrete Choice, Time Series
+To run ML models : Supervised, Unsupervised, Deep Learning, and Reinforcement Learning
+To understand High Performance Computing: Kamiak
+
+Learning new things, do something for the future generation and myself.
+
+Stey by step, and enjoy the path where it goes.
+

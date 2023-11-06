@@ -9,7 +9,9 @@ Learning new things, do something for the future generation and myself.
 Stey by step, and enjoy the path where it goes.
 
 '''
+
 %%shell
 jupyter nbconvert --to html /your_path_of_ipynb file
+
 '''
 
